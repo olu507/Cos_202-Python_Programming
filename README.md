@@ -1,2 +1,9 @@
-# Cos_202-Python_Programming
-This repository contains my COS-202 (Python Programming) assignments, showcasing Python applications developed to demonstrate fundamental programming concepts and problem-solving skills.
+Personal Pocket CGPA Calculator (PPC)
+
+Project Title
+
+Personal Pocket CGPA Calculator (PPC)
+
+Aim
+
+The aim of this project is to develop a mathematical calculator using Python that performs basic arithmetic operations such as addition, subtraction, multiplication, division, modulus, and exponentiation. The program is designed using Python functions and selection control statements ("if", "elif", and "else") to allow users to choose and execute different mathematical operations through a simple menu-driven interface.
