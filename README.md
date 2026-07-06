@@ -196,11 +196,10 @@ Class = First Class Upper
 
 These were resolved with conditional checks, exception handling, input validation loops, and testing.
 
----
 
 ## Conclusion
 
-The assignment objectives were achieved: two Python applications were developed — a Mathematical Calculator and a Personal Pocket CGPA Calculator — demonstrating core programming concepts and practical problem solving in Python.
+The assignment objectives were achieved: two Python applications were developed a Mathematical Calculator and a Personal Pocket CGPA Calculator demonstrating core programming concepts and practical problem solving in Python.
 
 
 Author:
