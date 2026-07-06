@@ -167,7 +167,7 @@ Enter Number of Courses: 3
 
 Course Code: COS202
 Credit Unit: 3
-Score: 78
+Score: 89
 Grade: A
 
 Course Code: GST201
@@ -175,17 +175,16 @@ Credit Unit: 2
 Score: 65
 Grade: B
 
-Course Code: MAT203
-Credit Unit: 3
-Score: 55
-Grade: C
+Course Code: MAT202
+Credit Unit: 2
+Score: 66
+Grade: B
 
-Total Credit Units = 8
+Total Credit Units = 7
 Total Grade Points = 33
-CGPA = 4.13
-Class = Second Class Upper
+CGPA = 4.71
+Class = First Class Upper
 
----
 
 ## Challenges Encountered
 
@@ -203,13 +202,6 @@ These were resolved with conditional checks, exception handling, input validatio
 
 The assignment objectives were achieved: two Python applications were developed — a Mathematical Calculator and a Personal Pocket CGPA Calculator — demonstrating core programming concepts and practical problem solving in Python.
 
----
-
-## License
-
-This project can include an open-source license if desired (e.g., MIT). Add a LICENSE file to the repo to declare licensing.
-
----
 
 Author:
 OLOMINU PAMILERIN EMMANUEL — COS202
